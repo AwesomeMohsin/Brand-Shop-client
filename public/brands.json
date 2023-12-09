@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple Inc. is an American multinational technology company known for its innovative consumer electronics, software, and services.",
+      "logo": "https://i.ibb.co/QfMQ6kF/apple.png",
+      
+      "banner1": "https://about.att.com/ecms/dam/snr/2022/september2022/storylevelbanner/iconic_STORY_LEVEL_BANNER_1600x483.jpg",
+      "banner2": "https://about.att.com/ecms/dam/snr/2019/September2019/StoryLevelBanner/1294%20-%20Apple%20iPhone%20AnnouncementSTORY_LEVEL_BANNER_1600x483.jpg",
+      "banner3": "https://about.att.com/ecms/dam/snr/2020/October2020/StoryLevelBanner/10132020_iPhone12_STORY_LEVEL_BANNER_1600x483.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "description": "Samsung is a South Korean conglomerate that produces a wide range of electronics and mobile devices.",
+      "logo": "https://i.ibb.co/VtZVSSf/samsung.png",
+      "banner1": "https://store.ite.net/wp-content/uploads/2019/08/Note10Launch_LandingPageBanner.jpg",
+      "banner2": "https://i.pinimg.com/originals/ea/bd/aa/eabdaadef69a169117a2900e77bfde9f.jpg",
+      "banner3": "https://i.pinimg.com/originals/17/2e/29/172e2930afcb386cb88d6c02cb6fccc8.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sony",
+      "description": "Sony Corporation is a Japanese multinational conglomerate known for its diverse range of consumer and professional electronics.",
+      "logo": "https://i.ibb.co/sCgfBDW/sony.png",
+      "banner1": "https://www.alezay.com/wp-content/uploads/2022/05/SONY-XPERIA-1-IV-5G-MAIN-BANNER-ALEZAY-KUWAIT.jpg",
+      "banner2": "https://www.alezay.com/wp-content/uploads/2022/06/SONY-XPERIA-10-IV-5G-BANNER-ALEZAY-KUWAIT.jpg",
+      "banner3": "https://www.alezay.com/wp-content/uploads/2021/08/SONY-XPERIA-1-III-5G-MAIN-BANNER-ALEZAY-KUWAIT.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Google",
+      "description": "Google LLC is an American technology company specializing in internet-related services and products.",
+      "logo": "https://i.ibb.co/wwpkMKG/google.png",
+      "banner1": "https://www.nylon.com.sg/wp-content/uploads/2019/10/google-pixel-4-banner.jpg",
+      "banner2": "https://www.nylon.com.sg/wp-content/uploads/2020/08/google-4a-header.png",
+      "banner3": "https://everphone.com/wp-content/uploads/2023/01/everphone-google-pixel-6a-magazin-banner-klein2-1024x384.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi",
+      "description": "Xiaomi is a prominent Chinese electronics company celebrated for its high-quality, affordable smartphones and a wide range of consumer electronics, offering exceptional value to consumers worldwide.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_logo_%282021-%29.svg/1024px-Xiaomi_logo_%282021-%29.svg.png",
+      "banner1": "https://www.phonesltd.co.uk/wp-content/uploads/2021/03/home-xiaomi-phones.png",
+      "banner2": "https://www.wilsoncomm.com.hk/media/wysiwyg/Generic_Promotion/mi_banner-02.jpg",
+      "banner3": "https://www.bajajmall.in/content/dam/emistoremarketplace/index/09-10-23/4/mi-bp/bb/MiBP_BigBanner_1_Desk_redmi12c128gbstoragematteblack6gbram_PDP_B2B.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Oppo",
+      "description": "Oppo is a leading Chinese consumer electronics company known for its innovative and stylish smartphones, particularly acclaimed for their advanced camera technology and design aesthetics. They prioritize",
+      "logo": "https://download.logo.wine/logo/Oppo/Oppo-Logo.wine.png",
+      "banner1": "https://assorted.downloads.oppo.com/static/archives/images/dd/Smartphones/A12/banner-PC.jpg",
+      "banner2": "https://assorted.downloads.oppo.com/static/archives/images/dd/Smartphones/A92/A92-white-top%20banner-PC.jpg",
+      "banner3": "https://assorted.downloads.oppo.com/static/archives/images/dd/Smartphones/Reno3/homepage-largebanner-pc.png"
+    }
+  ]

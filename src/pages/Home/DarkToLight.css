@@ -1,0 +1,26 @@
+/* body.light-mode {
+    background-color: #fff;
+    color: #333;
+    transition: background-color 0.3s ease;
+  }
+  body.dark-mode {
+    background-color: #1a1919;
+    color: #999;
+  } */
+
+  
+  
+  /* .dark {
+    background-color: var(--clr-bg-dark);
+    color: var(--clr-text-dark);
+  }
+  
+  .light {
+    background-color: var(--clr-bg-light);
+    color: var(--clr-text-light);
+  } */
+
+  .dark{
+    background-color: #25262B;
+    color: gray;
+}
